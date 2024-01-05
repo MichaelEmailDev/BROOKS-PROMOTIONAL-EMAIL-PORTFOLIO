@@ -1,5 +1,7 @@
 
-<------BROOKS PROMOTIONAL EMAIL LINKS -------------->
+***********************************************************************
+BROOKS PROMOTIONAL EMAIL LINKS
+***********************************************************************
 
 
 
@@ -10,8 +12,9 @@ Brooks Logo White
 https://i.ibb.co/7RpSmvs/brooks-logo-white.png
 
 
-
-***************************************************
+***********************************************************************
+MAIN BODY IMAGE LINKS
+***********************************************************************
 
 Its Your Run Image 1
 https://i.ibb.co/dt1g4T6/its-your-run-image-1.gif
@@ -37,7 +40,9 @@ Woman Jumping for Joy
 https://i.ibb.co/grg77xg/lady-jumping-image-6.jpg
 
 
-***************************************************
+***********************************************************************
+ICON IMAGES
+***********************************************************************
 
 Shoe Icon
 https://i.ibb.co/5RT5vdp/shoe-icon.png
@@ -51,14 +56,18 @@ Location Icon
 https://i.ibb.co/khfv318/location-symbol.png
 
 
-***************************************************
+***********************************************************************
+SEPARATION IMAGE
+***********************************************************************
 
 Blue Squiggle Line
 https://i.ibb.co/LRqJ9zV/blue-squiggle-line.png
 
 
 
-***************************************************
+***********************************************************************
+SOCIAL MEDIA IMAGES AND LINKS
+***********************************************************************
 
 Instagram Icon
 https://i.ibb.co/pzjfc75/instagram-icon.png
@@ -76,6 +85,4 @@ https://i.ibb.co/3C6zqtD/tiktok-icon.png
 
 Youtube Icon
 https://i.ibb.co/By0L4nP/youtube-icon.png
-
-Youtube URL LINKS
 https://www.youtube.com/user/brooksrunning
